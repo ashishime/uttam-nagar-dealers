@@ -1,0 +1,6 @@
+﻿# Exclude CI files
+.github/
+*.php
+*.ps1
+*.txt
+*.log
